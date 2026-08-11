@@ -45,7 +45,7 @@
 
 <!-- LeetCode stats -->
 <h3 align="center">📊 Coding Stats 📈</h3>
-<p align="center"><img src="https://leetcard.jacoblin.cool/AlikAgarwala?ext=heatmap&theme=dark"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/snehasishxdas?ext=heatmap&theme=dark"></p>
 
 ---
 
