@@ -230,32 +230,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<br/>
-
-<!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░ -->
-<!-- ██████████████████████████████████████████████ -->
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| &nbsp;🔷 PROJECT&nbsp; | &nbsp;📋 DESCRIPTION&nbsp; | &nbsp;🏷️ DOMAIN&nbsp; |
-|:---|:---|:---:|
-| 🤖 **Robotics Systems** | Intelligent robotic solutions, autonomous navigation & control | `Robotics` |
-| 🌐 **Smart IoT Applications** | Real-world IoT-based monitoring and automation systems | `IoT` |
-| 👁️ **Computer Vision Suite** | AI-powered real-time object detection & visual intelligence | `CV · AI` |
-| ⚡ **EV Technologies** | Embedded firmware and BMS for next-gen electric vehicles | `EV · Embedded` |
-| 🔌 **Embedded Platforms** | Hardware-software integrated micro-controller systems | `Embedded` |
-| 🏆 **Hackathon Innovations** | Rapid prototyping and award-winning product development | `Innovation` |
-
-</div>
 
 <br/>
 
@@ -273,9 +247,9 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aranya01238&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehasishxdas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya01238&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasishxdas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
 
 <br/><br/>
 
@@ -287,9 +261,9 @@
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aranya01238&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehasishxdas&theme=tokyonight"/>
 &nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aranya01238&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehasishxdas&theme=tokyonight"/>
 
 </div>
 
@@ -309,7 +283,7 @@
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aranya01238&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6ec7&area=true&area_color=00d9ff"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishxdas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6ec7&area=true&area_color=00d9ff"/>
 
 </div>
 
@@ -337,7 +311,7 @@
 
 <br/>
 
-<img src="https://ghchart.rshah.org/00D9FF/Aranya01238" alt="Contribution Chart" width="95%"/>
+<img src="https://ghchart.rshah.org/00D9FF/snehasishxdas" alt="Contribution Chart" width="95%"/>
 
 </div>
 
