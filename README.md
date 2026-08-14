@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=85&pause=1500&color=FFCC00&center=true&vCenter=true&width=800&height=120&lines=INITIALIZING+SYSTEM...;SYSTEM+PROFILE" alt="System Profile Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=85&pause=800&color=FFCC00&center=true&vCenter=true&width=800&height=120&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰;►+SYSTEM+PROFILE+◄;  INITIALIZING+SYSTEM..." alt="Yellow Squeezed Animated" />
 </div>
 <br/>
 <div align="center">
