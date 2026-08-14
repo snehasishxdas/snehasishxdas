@@ -74,6 +74,8 @@
 <h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
 </div>
 <br>
+<br>
+
 <table width="100%" border="1" bordercolor="#30363d" cellspacing="0" cellpadding="20" style="border-collapse: collapse; background-color: #0d1117;">
   <tr>
     <td width="60%" valign="top">
@@ -101,13 +103,12 @@
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
-       <!-- AI Robot GIF -->
-       <img src="https://media.tenor.com/7NX24BbCq3gAAAAC/robot-typing.gif" width="100%" height="420" alt="AI Robot" style="border-radius: 5px; object-fit: cover;"/>
+       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="AI Robot Animation" style="border-radius: 5px;"/>
     </td>
   </tr>
 </table>
+
 <br>
-</table>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
