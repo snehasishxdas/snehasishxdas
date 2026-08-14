@@ -1,8 +1,43 @@
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  1. SYSTEM PROFILE  ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=header" width="1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=75&pause=1500&color=FFCC00&center=true&vCenter=true&width=1000&height=130&lines=▰▰▰+INITIALIZING+SYSTEM...+▰▰▰;▰▰▰+SYSTEM+PROFILE+▰▰▰" alt="System Profile Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=footer" width="1000" />
+</div>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  2. GITHUB BANNER   ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+<div align="center">
 <!-- banner image to be updated -->
 <img src="images/github.png" alt="banner image">
+</div>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  3. IDENTITY CARDS  ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+<div align="center">
+<img src="https://img.shields.io/badge/Name-Snehasish%20Das-0366d6?style=flat" alt="Name" />
+<img src="https://img.shields.io/badge/Handle-snehasishxdas-181717?logo=github&style=flat" alt="Handle" />
+<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-2ea44f?style=flat" alt="Degree" />
+<img src="https://img.shields.io/badge/Specialisation-Cyber%20Security-ffb000?style=flat" alt="Spec" />
+<img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
+</div>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  4. PROFILE VIEWS   ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasishxdas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-<!-- social links -->
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  5. SOCIAL LINKS    ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
 <h3 align="center">🔗 Connect with me 🌏</h3>
 <p align="center">
     <a href="https://linkedin.com/in/snehasishxofficial"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
@@ -12,42 +47,12 @@
 </p>
 <br/>
 
-<!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░  TROPHIES — SECTION 2  ░░░░░░░░░░░░ -->
-<!-- ██████████████████████████████████████████████ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
-    
-## 🏆 Hall of Fame — GitHub Trophies
-
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
-</div>
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
+
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░  6. ACTIVE MISSIONS ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=header" width="1000" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=75&pause=1500&color=FFCC00&center=true&vCenter=true&width=1000&height=130&lines=▰▰▰+INITIALIZING+SYSTEM...+▰▰▰;▰▰▰+SYSTEM+PROFILE+▰▰▰" alt="System Profile Animation" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=footer" width="1000" />
-</div>
-<br/>
-<div align="center">
-<!-- IDENTITY CARDS ROW -->
-<img src="https://img.shields.io/badge/Name-Snehasish%20Das-0366d6?style=flat" alt="Name" />
-<img src="https://img.shields.io/badge/Handle-snehasishxdas-181717?logo=github&style=flat" alt="Handle" />
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-2ea44f?style=flat" alt="Degree" />
-<img src="https://img.shields.io/badge/Specialisation-Cyber%20Security-ffb000?style=flat" alt="Spec" />
-<img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
-</div>
-<br/>
-<!-- ACTIVE MISSIONS VISUAL TABLE -->
 <div align="center">
 
 ### ⚡ ACTIVE MISSIONS
@@ -62,6 +67,9 @@
 
 <br><br>
 
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  7. BUILD STATUS    ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
 ### 🛠️ CURRENT BUILD STATUS
 
 <img src="https://img.shields.io/badge/🛡️%20CYBER%20SECURITY-90%25-00d2ff?style=for-the-badge&labelColor=0b1016" alt="Cyber Security" />
@@ -74,8 +82,13 @@
 <h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
 </div>
 <br>
-<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░  8. ENG. PHILOSOPHY   ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
 <table width="100%" border="1" bordercolor="#30363d" cellspacing="0" cellpadding="20" style="border-collapse: collapse; background-color: #0d1117;">
   <tr>
     <td width="60%" valign="top">
@@ -108,29 +121,13 @@
   </tr>
 </table>
 
-<br>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
-<!-- github stats -->
-<h3 align="center">📈 GitHub Stats 📊</h3>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=snehasishxdas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=snehasishxdas&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
-    &nbsp;&nbsp;
-  <br/>
-  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasishxdas&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
-</div>
-<br>
-</div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░  9. TECH STACK      ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
-
 <div align="center">
 
 ## ⚒️ Tech Arsenal
@@ -138,51 +135,37 @@
 <br/>
 
 ### ◈ Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark&perline=5"/>
-
 <br/>
 
 ### ◈ Web Development
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs&theme=dark&perline=5"/>
-
 <br/>
 
 ### ◈ AI & Machine Learning
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5"/>
-
 <br/>
 
 ### ◈ Databases
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=5"/>
-
 <br/>
 
 ### ◈ Embedded & IoT
-
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=5"/>
-
 <br/>
 
 ### ◈ Cloud & DevOps
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,aws,gcp&theme=dark&perline=6"/>
 
 </div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░  NEON DOMAIN BADGES  ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░  10. DOMAINS OF EXPERTISE  ░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
-
 <div align="center">
 
 ## 🚀 Domains of Expertise
@@ -201,17 +184,14 @@
 ![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-E34C26?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░  LEADERSHIP TABLE  ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░  11. LEADERSHIP TABLE ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
-
 <div align="center">
 
 ## 🏆 Leadership & Command
@@ -228,17 +208,41 @@
 | 🟢 **ACTIVE** | ⚡ Member | IETE Student's Forum |
 
 </div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░  ENGINEERING MINDSET  ░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░  12. GITHUB STATS   ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
+<h3 align="center">📈 GitHub Stats 📊</h3>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=snehasishxdas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=snehasishxdas&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
+    &nbsp;&nbsp;
+  <br/>
+  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasishxdas&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+</div>
+<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  13. LEETCODE STATS ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+<!-- LeetCode stats -->
+<h3 align="center">📊 Coding Stats 📈</h3>
+<p align="center"><img src="https://leetcard.jacoblin.cool/snehasishxdas?ext=heatmap&theme=dark"></p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░  14. ENG. MINDSET    ░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
 <div align="center">
 
 ## ⚙️ Engineering Mindset
@@ -255,7 +259,7 @@
 <br/><br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░  RANDOM DEV QUOTE  ░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░  15. RANDOM QUOTE  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -263,11 +267,10 @@
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░  16. FOOTER WAVE  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
 ### ⚡ Cyber Security &nbsp;x&nbsp; Backend Development &nbsp;x&nbsp; Android &nbsp;x&nbsp; DevOps ⚡
@@ -279,6 +282,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0a0a0f,30:0d1b2a,60:0f3460,100:00d9ff&reversal=true"/>
 </div>
-<!-- LeetCode stats -->
-<h3 align="center">📊 Coding Stats 📈</h3>
-<p align="center"><img src="https://leetcard.jacoblin.cool/snehasishxdas?ext=heatmap&theme=dark"></p>
