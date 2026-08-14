@@ -220,7 +220,7 @@
 
 | &nbsp;&nbsp;STATUS&nbsp;&nbsp; | &nbsp;&nbsp;ROLE&nbsp;&nbsp; | &nbsp;&nbsp;ORGANIZATION&nbsp;&nbsp; |
 |:---:|:---|:---|
-| 🟢 **ACTIVE** | 👑 Chairperson | Microsoft Student Community IEMK |
+| 🟢 **ACTIVE** | 👑 Lead | Microsoft Student Community IEMK |
 | 🔴 **FORMER** | 🎖️ Ex Chairperson | Microsoft Student Society UEMK |
 | 🟢 **ACTIVE** | 💼 Student Advisory | Microsoft Student Society UEMK |
 | 🟢 **ACTIVE** | 🚀 Infrastructure (Server) Lead | Ureckon |
