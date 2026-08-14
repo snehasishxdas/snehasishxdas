@@ -76,22 +76,7 @@
 <h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
 
 </div>
-<br/>
-<!-- BUILD STATUS CARDS -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2040,100:0d1117&height=3"/>
-### 🛠️ CURRENT BUILD STATUS
-<br/>
-<img src="https://img.shields.io/badge/🤖%20Robotics%20Projects-80%25-00d9ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🌐%20IoT%20Solutions-90%25-00c853?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-70%25-8a2be2?style=for-the-badge&labelColor=0d1117"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🔬%20Edge%20AI%20%26%20Deep%20Learning-50%25%20LEARNING-ff6ec7?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/⚡%20EV%20Technologies-80%25-f97316?style=for-the-badge&labelColor=0d1117"/>
-<br/><br/>
-<!-- ANIMATED SKILL BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=◈+Robotics+%7C+AI+%7C+IoT+%7C+Embedded+Systems;◈+Computer+Vision+%7C+EV+Tech+%7C+Blockchain+%7C+R%26D;◈+Building+the+future%2C+one+system+at+a+time...)](https://git.io/typing-svg)
-</div>
+
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
