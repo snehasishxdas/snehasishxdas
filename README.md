@@ -38,12 +38,11 @@
 <br/>
 <div align="center">
 <!-- IDENTITY CARDS ROW -->
-<img src="https://img.shields.io/badge/◈%20NAME-SNEHASISH%20DAS-00d2ff?style=for-the-badge&labelColor=0b1016" alt="Name" />
-<img src="https://img.shields.io/badge/◈%20HANDLE-SNEHASISHXDAS-ff66b2?style=for-the-badge&labelColor=0b1016" alt="Handle" />
-<img src="https://img.shields.io/badge/◈%20DEGREE-B.TECH%20CSE-8a2be2?style=for-the-badge&labelColor=0b1016" alt="Degree" />
-<br><br>
-<img src="https://img.shields.io/badge/◈%20COLLEGE-IEM%20KOLKATA-1e90ff?style=for-the-badge&labelColor=0b1016" alt="College" />
-<img src="https://img.shields.io/badge/◈%20SPEC-CYBER%20SECURITY-ff7f00?style=for-the-badge&labelColor=0b1016" alt="Spec" />
+<img src="https://img.shields.io/badge/Name-Snehasish%20Das-0366d6?style=flat" alt="Name" />
+<img src="https://img.shields.io/badge/Handle-snehasishxdas-181717?logo=github&style=flat" alt="Handle" />
+<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-2ea44f?style=flat" alt="Degree" />
+<img src="https://img.shields.io/badge/Specialisation-Cyber%20Security-ffb000?style=flat" alt="Spec" />
+<img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
 </div>
 <br/>
 <!-- ACTIVE MISSIONS VISUAL TABLE -->
