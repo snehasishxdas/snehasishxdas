@@ -10,10 +10,19 @@
     <a href="https://instagram.com/snehasishxofficial"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/snehasishxdas"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
 </p>
----
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░  TROPHIES — SECTION 2  ░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
+
 ## 🏆 Hall of Fame — GitHub Trophies
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=snehasishxdas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
 </div>
