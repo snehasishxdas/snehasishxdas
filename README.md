@@ -26,12 +26,12 @@
 </picture>, I'm Snehasish Das</h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=A+passionate+web+developer+from+India;An+MCA+student+at+University+of+Calcutta;A+Machine+Learning+enthusiast" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=A+passionate+web+developer+from+India;A+Cyber+Security+student+at+Institute+of+Engineering+Management+Kolkata;A+Cyber+Security+Analyst" alt="Typing Animation">
 </h3>
 
 <p align="center">
     <!-- Profile Views Badge -->
-    <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=snehasishxdas&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
     <!-- Status Badge -->
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Profile status" />
 </p>
