@@ -191,17 +191,14 @@
 
 ![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-00d2ff?style=for-the-badge&labelColor=0d1117)
 ![Database](https://img.shields.io/badge/🗄️%20Database-4CAF50?style=for-the-badge&labelColor=0d1117)
+![API](https://img.shields.io/badge/🔌%20API-FF69B4?style=for-the-badge&labelColor=0d1117)
+<br/>
+![MySQL](https://img.shields.io/badge/🐬%20MySQL-4479A1?style=for-the-badge&labelColor=0d1117)
 ![Android Development](https://img.shields.io/badge/🤖%20Android%20Development-3DDC84?style=for-the-badge&labelColor=0d1117)
-![Artificial AI](https://img.shields.io/badge/🧠%20Artificial%20AI-FF69B4?style=for-the-badge&labelColor=0d1117)
-<br/>
-![Hackathons](https://img.shields.io/badge/🏆%20Hackathons-FFD700?style=for-the-badge&labelColor=0d1117)
 ![Authentication](https://img.shields.io/badge/🔐%20Authentication-FF8C00?style=for-the-badge&labelColor=0d1117)
-![DevOps](https://img.shields.io/badge/⚙️%20DevOps-8A2BE2?style=for-the-badge&labelColor=0d1117)
-![Hosting](https://img.shields.io/badge/🚀%20Hosting-00BFFF?style=for-the-badge&labelColor=0d1117)
 <br/>
-![Cloud](https://img.shields.io/badge/☁️%20Cloud-1E90FF?style=for-the-badge&labelColor=0d1117)
-![Languages Known](https://img.shields.io/badge/💻%20Languages%20Known-DC143C?style=for-the-badge&labelColor=0d1117)
-![Platform](https://img.shields.io/badge/🐧%20Platform-A9A9A9?style=for-the-badge&labelColor=0d1117)
+![DevOps](https://img.shields.io/badge/⚙️%20DevOps-8A2BE2?style=for-the-badge&labelColor=0d1117)
+![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-E34C26?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
