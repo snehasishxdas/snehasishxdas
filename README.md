@@ -102,10 +102,10 @@
     </td>
     <td width="40%" align="center" valign="middle">
        <!-- Top GIF -->
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%" alt="Coding Animation 1" style="border-radius: 5px; margin-bottom: 15px;"/>
+       <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="100%" alt="Developer Animation 1" style="border-radius: 5px; margin-bottom: 15px;"/>
        <br>
        <!-- Bottom GIF -->
-       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding Animation 2" style="border-radius: 5px;"/>
+       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Developer Animation 2" style="border-radius: 5px;"/>
     </td>
   </tr>
 </table>
