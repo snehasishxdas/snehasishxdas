@@ -76,42 +76,43 @@
 <h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
 
 </div>
+<br>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
-<!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░  PHILOSOPHY + CODING GIF  ░░░░░░░░░░░ -->
-<!-- ██████████████████████████████████████████████ -->
-<table>
-<tr>
-<td width="58%" valign="top">
-<div align="center">
-<h2>⚡ Engineering Philosophy</h2>
-</div>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20intelligent%20systems%20that%20solve%20real-world%20problems%20through%20AI%2C%20Robotics%2C%20IoT%20and%20Innovation.&author=Aranya%20Rath"/>
-</div>
-<br/>
-**🔷 Core Domains:**
-```
-🤖  Robotics          ───────────────── Autonomous systems
-🧠  Artificial AI     ───────────────── Neural networks & ML  
-🌐  Internet of Things ──────────────── Smart embedded networks
-👁️  Computer Vision   ───────────────── Real-time image AI
-⚡  Electric Vehicles ───────────────── Next-gen EV firmware
-🔬  Research & Dev    ───────────────── Lab-to-product pipeline
-🏆  Hackathons        ───────────────── Rapid prototyping
-⚙️  Embedded Systems  ───────────────── Hardware meets software
-```
-</td>
-<td width="42%" valign="top" align="center">
-<br/><br/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius:12px"/>
-<br/>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90%" style="border-radius:12px"/>
-</td>
-</tr>
+<table width="100%" border="1" bordercolor="#30363d" cellspacing="0" cellpadding="20" style="border-collapse: collapse; background-color: #0d1117;">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="center">⚡ Engineering Philosophy</h3>
+      <br>
+      <blockquote style="border-left: 4px solid #1f6feb; color: #00d2ff; background-color: #161b22; padding: 15px; border-radius: 5px;">
+        <em>“Building secure, scalable systems that solve real-world problems through robust backend engineering, proactive cybersecurity, and continuous innovation.”</em>
+        <br><br>
+        <div align="right">- Snehasish Das</div>
+      </blockquote>
+      <br>
+      <h4>🔷 Core Domains:</h4>
+      <pre style="background-color: #161b22; padding: 15px; border-radius: 5px; color: #c9d1d9;">
+🛡️  Cyber Security ──────────── Phishing, Malware, SOC, Pen Testing
+🗄️  Database ────────────────── Mongo, Firebase, Supabase, MySQL
+🧠  Artificial AI ───────────── Neural networks & ML
+🏆  Hackathons ──────────────── Rapid prototyping
+🔐  Authentication ──────────── OAuth, SMTP
+⚙️  DevOps ──────────────────── Git, GitHub
+🚀  Hosting ─────────────────── Vercel, Netlify
+☁️  Cloud ───────────────────── AWS
+💻  Languages Known ─────────── HTML, Python, C, Java
+      </pre>
+    </td>
+    <td width="40%" align="center" valign="middle">
+       <!-- Top GIF -->
+       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%" alt="Coding Animation 1" style="border-radius: 5px; margin-bottom: 15px;"/>
+       <br>
+       <!-- Bottom GIF -->
+       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding Animation 2" style="border-radius: 5px;"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 </table>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
