@@ -217,12 +217,13 @@
 <br/>
 
 | &nbsp;&nbsp;STATUS&nbsp;&nbsp; | &nbsp;&nbsp;ROLE&nbsp;&nbsp; | &nbsp;&nbsp;ORGANIZATION&nbsp;&nbsp; |
-|:---:|:---:|:---:|
-| 🔵 **ACTIVE** | 💼 Technical Lead | Microsoft Student Society UEMK |
-| 🔵 **ACTIVE** | 🎯 Event Head | IGNITIA 2K26 |
-| 🔵 **ACTIVE** | 🌐 Co Lead | IETE IEM |
-| 🔵 **ACTIVE** | ⚡ IoT Lead | Vikrant EV |
-| 🟢 **ACTIVE** | 🔬 Project Intern | IIT KGP Research Foundation |
+|:---:|:---|:---|
+| 🟢 **ACTIVE** | 👑 Chairperson | Microsoft Student Community IEMK |
+| 🔴 **FORMER** | 🎖️ Ex Chairperson | Microsoft Student Society UEMK |
+| 🟢 **ACTIVE** | 💼 Student Advisory | Microsoft Student Society UEMK |
+| 🟢 **ACTIVE** | 🚀 Infrastructure (Server) Lead | Ureckon |
+| 🟢 **ACTIVE** | 🌐 Coordinator | SMART Makers Festival |
+| 🟢 **ACTIVE** | ⚡ Member | IETE Student's Forum |
 
 </div>
 
