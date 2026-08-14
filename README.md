@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=0:0d1117,100:00d9ff&text=❖%20SYSTEM%20PROFILE%20❖&fontColor=ffffff&fontSize=35&animation=scaleIn&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=000000&text=SYSTEM%20PROFILE&fontColor=FBBF24&fontSize=45&animation=scaleIn" alt="Obsidian Block" />
 </div>
 <br/>
 <div align="center">
