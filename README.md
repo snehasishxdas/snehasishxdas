@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1016,100:FFCC00&text=❖%20SYSTEM%20PROFILE%20❖&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=35&custom=Impact" alt="Waving Shape Yellow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=85&pause=800&color=FFCC00&center=true&vCenter=true&width=800&height=120&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰;►+SYSTEM+PROFILE+◄;INITIALIZING+SYSTEM..." alt="Yellow Squeezed Animated" />
 </div>
 <br/>
 <div align="center">
