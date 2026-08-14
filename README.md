@@ -49,15 +49,34 @@
 <br/>
 <!-- ACTIVE MISSIONS VISUAL TABLE -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2040,100:0d1117&height=3"/>
+
 ### ⚡ ACTIVE MISSIONS
+
 | &nbsp;🔴 LIVE&nbsp; | &nbsp;⚙️ ROLE&nbsp; | &nbsp;🏢 ORGANIZATION&nbsp; | &nbsp;🏷️ BADGE&nbsp; |
-|:---:|:---|:---|:---:|
-| 🟢 | 💼 **Chairperson** | Microsoft Student Society UEMK | ![MSS](https://img.shields.io/badge/MSS-UEMK-00d9ff?style=flat-square&labelColor=0d1117) |
-| 🟢 | 🎯 **Event Head** | IGNITIA 2K26 | ![IGNITIA](https://img.shields.io/badge/IGNITIA-2K26-ff6ec7?style=flat-square&labelColor=0d1117) |
-| 🟢 | 🌐 **Co Lead** | IETE IEM | ![IETE](https://img.shields.io/badge/IETE-IEM-8a2be2?style=flat-square&labelColor=0d1117) |
-| 🟢 | ⚡ **IoT Lead** | Vikrant EV | ![Vikrant](https://img.shields.io/badge/Vikrant-EV-00c853?style=flat-square&labelColor=0d1117) |
-| 🟢 | 🔬 **Project Intern** | IIT KGP Research Foundation | ![IITK](https://img.shields.io/badge/IIT-KGP-f97316?style=flat-square&labelColor=0d1117) |
+| :---: | :--- | :--- | :---: |
+| 🟢 | 💼 Organizing Team | Microsoft Student Society UEMK | <img src="https://img.shields.io/badge/MSS-UEMK-00d2ff?style=flat-square&labelColor=0b1016" alt="MSS Badge"/> |
+| 🟢 | 🎯 Recruitment & Coord. | Tech Kurukshetra | <img src="https://img.shields.io/badge/Tech-Kurukshetra-ff66b2?style=flat-square&labelColor=0b1016" alt="Tech Kurukshetra"/> |
+| 🟢 | 🌐 Volunteer | SMART Makers Festival 2025 | <img src="https://img.shields.io/badge/SMART-2025-8a2be2?style=flat-square&labelColor=0b1016" alt="SMART 2025"/> |
+| 🟢 | ⚡ Participant | Catalyst 2K26 | <img src="https://img.shields.io/badge/Catalyst-2K26-28a745?style=flat-square&labelColor=0b1016" alt="Catalyst"/> |
+| 🟢 | 🚀 Participant | InnoFusion 2.0 | <img src="https://img.shields.io/badge/InnoFusion-2.0-1e90ff?style=flat-square&labelColor=0b1016" alt="InnoFusion"/> |
+| 🟢 | 💻 Participant | Hackberry Pi Bootcamp | <img src="https://img.shields.io/badge/Hackberry-Pi-ff7f00?style=flat-square&labelColor=0b1016" alt="Hackberry Pi"/> |
+| 🟢 | 🛠️ Participant | AdComSys 2025 | <img src="https://img.shields.io/badge/AdComSys-2025-ffc107?style=flat-square&labelColor=0b1016" alt="AdComSys"/> |
+
+<br><br>
+
+### 🛠️ CURRENT BUILD STATUS
+
+<img src="https://img.shields.io/badge/🛡️%20CYBER%20SECURITY-90%25-00d2ff?style=for-the-badge&labelColor=0b1016" alt="Cyber Security" />
+<img src="https://img.shields.io/badge/💻%20COMPETITIVE%20HACKATHONS-85%25-28a745?style=for-the-badge&labelColor=0b1016" alt="Hackathons" />
+<img src="https://img.shields.io/badge/⚙️%20EVENT%20MANAGEMENT-80%25-8a2be2?style=for-the-badge&labelColor=0b1016" alt="Event Management" />
+<br><br>
+<img src="https://img.shields.io/badge/🎭%20TECH--CULTURE%20FUSION-70%25-ff66b2?style=for-the-badge&labelColor=0b1016" alt="Tech Culture" />
+<img src="https://img.shields.io/badge/🧠%20IDEATHONS-90%25-ff7f00?style=for-the-badge&labelColor=0b1016" alt="Ideathons" />
+
+<br><br>
+
+<h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
+
 </div>
 <br/>
 <!-- BUILD STATUS CARDS -->
