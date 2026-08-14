@@ -101,11 +101,8 @@
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
-       <!-- Top GIF -->
-       <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="100%" alt="Developer Animation 1" style="border-radius: 5px; margin-bottom: 15px;"/>
-       <br>
-       <!-- Bottom GIF -->
-       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Developer Animation 2" style="border-radius: 5px;"/>
+       <!-- AI Robot GIF -->
+       <img src="PASTE_YOUR_GIF_LINK_HERE" width="100%" height="420" alt="AI Robot" style="border-radius: 5px;"/>
     </td>
   </tr>
 </table>
