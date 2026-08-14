@@ -270,16 +270,14 @@
 <!-- ░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
-### ⚡ Robotics &nbsp;×&nbsp; IoT &nbsp;×&nbsp; AI &nbsp;×&nbsp; Innovation ⚡
-
+### ⚡ Cyber Security &nbsp;x&nbsp; Backend Development &nbsp;x&nbsp; Android &nbsp;x&nbsp; DevOps ⚡
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E%3E+Initializing+next+mission...;%3E%3E+Systems+online.+All+modules+active.;%3E%3E+Building+technology+that+matters...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E%3E+Initializing+next+mission...;%3E%3E+Securing+backend+architecture...;%3E%3E+Deploying+scalable+systems...)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0a0a0f,30:0d1b2a,60:0f3460,100:00d9ff&reversal=true"/>
-
 </div>
 <!-- LeetCode stats -->
 <h3 align="center">📊 Coding Stats 📈</h3>
