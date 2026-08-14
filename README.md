@@ -257,20 +257,24 @@
 <!-- ██████████████████████████████████████████████ -->
 <!-- ░░░░░░░░  14. WHAT I'M LOOKING FOR  ░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
+<div align="center">
+
 ## 🎯 What I'm Looking For
+
+<br/>
 
 I'm looking for roles where I can build and deploy **real-world AI systems** — RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
 
-Open to:
-* Cyber Security Internships
-* AI / ML Internships
-* Full-Stack Developer Intern roles
-* Data & AI Engineer roles
-* Early-stage startups & tech-driven teams
+<br/><br/>
 
+![Cyber Security Internships](https://img.shields.io/badge/🛡️%20Cyber%20Security%20Internships-00F7FF?style=for-the-badge&labelColor=0d1117)
+![AI / ML Internships](https://img.shields.io/badge/🧠%20AI%20/%20ML%20Internships-FF6EC7?style=for-the-badge&labelColor=0d1117)
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+![Full-Stack Developer Intern](https://img.shields.io/badge/💻%20Full--Stack%20Intern-00C853?style=for-the-badge&labelColor=0d1117)
+![Data & AI Engineer](https://img.shields.io/badge/📊%20Data%20&%20AI%20Engineer-FF8C00?style=for-the-badge&labelColor=0d1117)
+![Startups & Tech Teams](https://img.shields.io/badge/🚀%20Startups%20&%20Tech%20Teams-8A2BE2?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 <!-- ██████████████████████████████████████████████ -->
 <!-- ░░░░░░░░░  15. ENG. MINDSET    ░░░░░░░░░░░░░░░ -->
