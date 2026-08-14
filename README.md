@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=50&pause=10000&color=10B981&center=true&vCenter=true&width=600&lines=SYSTEM+PROFILE" alt="Anton Typography" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=900&size=65&pause=800&color=00d2ff&center=true&vCenter=true&width=800&height=120&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰;►+SYSTEM+PROFILE+◄;INITIALIZING+SYSTEM..." alt="Anton Animated Sequence" />
 </div>
 <br/>
 <div align="center">
