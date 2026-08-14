@@ -17,9 +17,7 @@
 <!-- ██████████████████████████████████████████████ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
-
 ## 🏆 Hall of Fame — GitHub Trophies
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
