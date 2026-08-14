@@ -263,7 +263,9 @@
 
 <br/>
 
-I'm looking for roles where I can build and deploy **real-world AI systems** — RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
+<blockquote style="border-left: 4px solid #FF6EC7; color: #c9d1d9; background-color: #161b22; padding: 15px; border-radius: 5px; text-align: left;">
+  I'm looking for roles where I can build and deploy <strong style="color: #00F7FF;">real-world AI systems</strong> — RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
+</blockquote>
 
 <br/><br/>
 
