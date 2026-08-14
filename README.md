@@ -13,7 +13,7 @@
 ---
 ## 🏆 Hall of Fame — GitHub Trophies
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aranya01238&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=snehasishxdas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f3460,100:0d1117&height=3"/>
 </div>
@@ -43,7 +43,7 @@
 ### ⚡ ACTIVE MISSIONS
 | &nbsp;🔴 LIVE&nbsp; | &nbsp;⚙️ ROLE&nbsp; | &nbsp;🏢 ORGANIZATION&nbsp; | &nbsp;🏷️ BADGE&nbsp; |
 |:---:|:---|:---|:---:|
-| 🟢 | 💼 **Technical Lead** | Microsoft Student Society UEMK | ![MSS](https://img.shields.io/badge/MSS-UEMK-00d9ff?style=flat-square&labelColor=0d1117) |
+| 🟢 | 💼 **Chairperson** | Microsoft Student Society UEMK | ![MSS](https://img.shields.io/badge/MSS-UEMK-00d9ff?style=flat-square&labelColor=0d1117) |
 | 🟢 | 🎯 **Event Head** | IGNITIA 2K26 | ![IGNITIA](https://img.shields.io/badge/IGNITIA-2K26-ff6ec7?style=flat-square&labelColor=0d1117) |
 | 🟢 | 🌐 **Co Lead** | IETE IEM | ![IETE](https://img.shields.io/badge/IETE-IEM-8a2be2?style=flat-square&labelColor=0d1117) |
 | 🟢 | ⚡ **IoT Lead** | Vikrant EV | ![Vikrant](https://img.shields.io/badge/Vikrant-EV-00c853?style=flat-square&labelColor=0d1117) |
