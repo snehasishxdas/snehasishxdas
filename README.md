@@ -54,13 +54,11 @@
 
 | &nbsp;🔴 LIVE&nbsp; | &nbsp;⚙️ ROLE&nbsp; | &nbsp;🏢 ORGANIZATION&nbsp; | &nbsp;🏷️ BADGE&nbsp; |
 | :---: | :--- | :--- | :---: |
-| 🟢 | 💼 Organizing Team | Microsoft Student Society UEMK | <img src="https://img.shields.io/badge/MSS-UEMK-00d2ff?style=flat-square&labelColor=0b1016" alt="MSS Badge"/> |
-| 🟢 | 🎯 Recruitment & Coord. | Tech Kurukshetra | <img src="https://img.shields.io/badge/Tech-Kurukshetra-ff66b2?style=flat-square&labelColor=0b1016" alt="Tech Kurukshetra"/> |
-| 🟢 | 🌐 Volunteer | SMART Makers Festival 2025 | <img src="https://img.shields.io/badge/SMART-2025-8a2be2?style=flat-square&labelColor=0b1016" alt="SMART 2025"/> |
-| 🟢 | ⚡ Participant | Catalyst 2K26 | <img src="https://img.shields.io/badge/Catalyst-2K26-28a745?style=flat-square&labelColor=0b1016" alt="Catalyst"/> |
-| 🟢 | 🚀 Participant | InnoFusion 2.0 | <img src="https://img.shields.io/badge/InnoFusion-2.0-1e90ff?style=flat-square&labelColor=0b1016" alt="InnoFusion"/> |
-| 🟢 | 💻 Participant | Hackberry Pi Bootcamp | <img src="https://img.shields.io/badge/Hackberry-Pi-ff7f00?style=flat-square&labelColor=0b1016" alt="Hackberry Pi"/> |
-| 🟢 | 🛠️ Participant | AdComSys 2025 | <img src="https://img.shields.io/badge/AdComSys-2025-ffc107?style=flat-square&labelColor=0b1016" alt="AdComSys"/> |
+| 🟢 | 💼 Student Advisory | Microsoft Student Society UEMK | <img src="https://img.shields.io/badge/MSS-UEMK-00d2ff?style=flat-square&labelColor=0b1016" alt="MSS Badge"/> |
+| 🟢 | 🎯 Finalist | BuildX IIT KGP | <img src="https://img.shields.io/badge/BuildX-IIT%20KGP-ff66b2?style=flat-square&labelColor=0b1016" alt="BuildX"/> |
+| 🟢 | 🌐 Coordinator | SMART Makers Festival | <img src="https://img.shields.io/badge/SMART-Festival-8a2be2?style=flat-square&labelColor=0b1016" alt="SMART"/> |
+| 🟢 | ⚡ Member | IETE Student's Forum | <img src="https://img.shields.io/badge/IETE-Forum-28a745?style=flat-square&labelColor=0b1016" alt="IETE"/> |
+| 🟢 | 🚀 Infrastructure (Server) Lead | Ureckon | <img src="https://img.shields.io/badge/Ureckon-Lead-ff7f00?style=flat-square&labelColor=0b1016" alt="Ureckon"/> |
 
 <br><br>
 
