@@ -100,7 +100,7 @@
 🚀  Hosting ─────────────────── Vercel, Netlify
 ☁️  Cloud ───────────────────── AWS
 💻  Languages Known ─────────── HTML, Python, C, Java
-</>  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android, 
+🐧  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android, 
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
