@@ -18,7 +18,27 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░  3. IDENTITY CARDS  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░  3. HELLO CODERS GREETING  ░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+<h1 align="center">Hello Coders<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Snehasish Das</h1>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=A+passionate+web+developer+from+India;An+MCA+student+at+University+of+Calcutta;A+Machine+Learning+enthusiast" alt="Typing Animation">
+</h3>
+
+<p align="center">
+    <!-- Profile Views Badge -->
+    <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+    <!-- Status Badge -->
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Profile status" />
+</p>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░  4. IDENTITY CARDS  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
 <img src="https://img.shields.io/badge/Name-Snehasish%20Das-0366d6?style=flat" alt="Name" />
@@ -28,12 +48,6 @@
 <img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
 </div>
 <br/>
-
-<!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░  4. PROFILE VIEWS   ░░░░░░░░░░░░░░░ -->
-<!-- ██████████████████████████████████████████████ -->
-<!-- profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasishxdas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!-- ██████████████████████████████████████████████ -->
 <!-- ░░░░░░░░░░  5. SOCIAL LINKS    ░░░░░░░░░░░░░░░ -->
@@ -241,7 +255,25 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░  14. ENG. MINDSET    ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░  14. WHAT I'M LOOKING FOR  ░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████ -->
+## 🎯 What I'm Looking For
+
+I'm looking for roles where I can build and deploy **real-world AI systems** — RAG apps, LLM tools, data-driven platforms — in fast-moving, product-focused teams.
+
+Open to:
+* Cyber Security Internships
+* AI / ML Internships
+* Full-Stack Developer Intern roles
+* Data & AI Engineer roles
+* Early-stage startups & tech-driven teams
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░  15. ENG. MINDSET    ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
 
@@ -259,7 +291,7 @@
 <br/><br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░  15. RANDOM QUOTE  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░  16. RANDOM QUOTE  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -270,7 +302,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░  16. FOOTER WAVE  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░  17. FOOTER WAVE  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 
 ### ⚡ Cyber Security &nbsp;x&nbsp; Backend Development &nbsp;x&nbsp; Android &nbsp;x&nbsp; DevOps ⚡
@@ -282,3 +314,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0a0a0f,30:0d1b2a,60:0f3460,100:00d9ff&reversal=true"/>
 </div>
+
+<br/>
+<p align="center" style="font-size:40px">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture>
+  <b>Thank You</b> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture></p>
