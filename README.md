@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=90&color=0:0d1117,40:0f3460,100:00d9ff&text=◈%20%20SYSTEM%20PROFILE%20%20◈&fontColor=00d9ff&fontSize=32&animation=blinking&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=0:0d1117,100:00d9ff&text=❖%20SYSTEM%20PROFILE%20❖&fontColor=ffffff&fontSize=35&animation=scaleIn&fontAlignY=50"/>
 </div>
 <br/>
 <div align="center">
