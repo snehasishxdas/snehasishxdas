@@ -38,12 +38,12 @@
 <br/>
 <div align="center">
 <!-- IDENTITY CARDS ROW -->
-<img src="https://img.shields.io/badge/◈%20NAME-Aranya%20Rath-00d9ff?style=for-the-badge&labelColor=0d1117&color=00d9ff"/>
-<img src="https://img.shields.io/badge/◈%20HANDLE-Aranya01238-ff6ec7?style=for-the-badge&labelColor=0d1117&color=ff6ec7"/>
-<img src="https://img.shields.io/badge/◈%20DEGREE-B.Tech%20CSE-8a2be2?style=for-the-badge&labelColor=0d1117&color=8a2be2"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/◈%20COLLEGE-IEM%20Kolkata-1e90ff?style=for-the-badge&labelColor=0d1117&color=1e90ff"/>
-<img src="https://img.shields.io/badge/◈%20SPEC-IoT%20|%20CyberSec%20|%20Blockchain-f97316?style=for-the-badge&labelColor=0d1117&color=f97316"/>
+<img src="https://img.shields.io/badge/◈%20NAME-SNEHASISH%20DAS-00d2ff?style=for-the-badge&labelColor=0b1016" alt="Name" />
+<img src="https://img.shields.io/badge/◈%20HANDLE-SNEHASISHXDAS-ff66b2?style=for-the-badge&labelColor=0b1016" alt="Handle" />
+<img src="https://img.shields.io/badge/◈%20DEGREE-B.TECH%20CSE-8a2be2?style=for-the-badge&labelColor=0b1016" alt="Degree" />
+<br><br>
+<img src="https://img.shields.io/badge/◈%20COLLEGE-IEM%20KOLKATA-1e90ff?style=for-the-badge&labelColor=0b1016" alt="College" />
+<img src="https://img.shields.io/badge/◈%20SPEC-CYBER%20SECURITY-ff7f00?style=for-the-badge&labelColor=0b1016" alt="Spec" />
 </div>
 <br/>
 <!-- ACTIVE MISSIONS VISUAL TABLE -->
