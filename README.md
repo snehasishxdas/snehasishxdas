@@ -33,7 +33,7 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=000000&text=SYSTEM%20PROFILE&fontColor=FBBF24&fontSize=45&animation=scaleIn" alt="Obsidian Block" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=50&pause=10000&color=10B981&center=true&vCenter=true&width=600&lines=SYSTEM+PROFILE" alt="Anton Typography" />
 </div>
 <br/>
 <div align="center">
