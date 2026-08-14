@@ -102,7 +102,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
        <!-- AI Robot GIF -->
-       <img src="PASTE_YOUR_GIF_LINK_HERE" width="100%" height="420" alt="AI Robot" style="border-radius: 5px;"/>
+       <img src="https://media.tenor.com/7NX24BbCq3gAAAAC/robot-typing.gif" width="100%" height="420" alt="AI Robot" style="border-radius: 5px; object-fit: cover;"/>
     </td>
   </tr>
 </table>
