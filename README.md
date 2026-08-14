@@ -93,6 +93,7 @@
       <pre style="background-color: #161b22; padding: 15px; border-radius: 5px; color: #c9d1d9;">
 🛡️  Cyber Security ──────────── Phishing, Malware, SOC, Pen Testing
 🗄️  Database ────────────────── Mongo, Firebase, Supabase, MySQL
+🤖  Android Development ─────── Android Studio
 🧠  Artificial AI ───────────── Neural networks & ML
 🏆  Hackathons ──────────────── Rapid prototyping
 🔐  Authentication ──────────── OAuth, SMTP
@@ -100,7 +101,7 @@
 🚀  Hosting ─────────────────── Vercel, Netlify
 ☁️  Cloud ───────────────────── AWS
 💻  Languages Known ─────────── HTML, Python, C, Java
-🐧  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android, 
+🐧  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
