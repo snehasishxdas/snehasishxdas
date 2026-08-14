@@ -33,7 +33,9 @@
 <!-- ░░░░░░░░░░  ABOUT ME SECTION  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=75&pause=1500&color=FFCC00&background=161B22&center=true&vCenter=true&width=1000&height=200&lines=INITIALIZING+SYSTEM...;SYSTEM+PROFILE" alt="System Profile Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=header" width="1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=800&size=75&pause=1500&color=FFCC00&center=true&vCenter=true&width=1000&height=130&lines=INITIALIZING+SYSTEM...;SYSTEM+PROFILE" alt="System Profile Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=FFCC00&section=footer" width="1000" />
 </div>
 <br/>
 <div align="center">
