@@ -70,14 +70,10 @@
 <br><br>
 <img src="https://img.shields.io/badge/🎭%20TECH--CULTURE%20FUSION-70%25-ff66b2?style=for-the-badge&labelColor=0b1016" alt="Tech Culture" />
 <img src="https://img.shields.io/badge/🧠%20IDEATHONS-90%25-ff7f00?style=for-the-badge&labelColor=0b1016" alt="Ideathons" />
-
 <br><br>
-
 <h4 align="center">◈ Cyber Security | Hackathons | Event Tech | Technical Coordination ◈</h4>
-
 </div>
 <br>
-
 <table width="100%" border="1" bordercolor="#30363d" cellspacing="0" cellpadding="20" style="border-collapse: collapse; background-color: #0d1117;">
   <tr>
     <td width="60%" valign="top">
@@ -113,7 +109,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 </table>
 <br/>
@@ -130,7 +125,6 @@
 </div>
 <br>
 </div>
-
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
