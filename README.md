@@ -47,6 +47,8 @@
 <img src="https://img.shields.io/badge/Specialisation-Cyber%20Security-ffb000?style=flat" alt="Spec" />
 <img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <div align="center" width="50%">
     <b><p> Coding is my love language :) </p></b>
     <img src="images/lofiboy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
@@ -56,6 +58,8 @@
     <!-- Streak feature -->
     
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
