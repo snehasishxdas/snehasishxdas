@@ -47,6 +47,15 @@
 <img src="https://img.shields.io/badge/Specialisation-Cyber%20Security-ffb000?style=flat" alt="Spec" />
 <img src="https://img.shields.io/badge/College-IEM%20Kolkata-6f42c1?style=flat" alt="College" />
 </div>
+<div align="center" width="50%">
+    <b><p> Coding is my love language :) </p></b>
+    <img src="lofiboy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
+        style="border-radius: 20px;" />
+    <br>
+    <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
+    <!-- Streak feature -->
+    
+</div>
 <br/>
 
 <!-- ██████████████████████████████████████████████ -->
