@@ -26,7 +26,7 @@
 </picture>, I'm Snehasish Das</h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=A+passionate+web+developer+from+India;A+Cyber+Security+student+at+IEM+Kolkata;A+Cyber+Security+Analyst" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=23&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=Cyber+Security+Analyst;Backend+Developer;Pursuing+B.Tech+Cyber+Security+at+IEM+Kolkata" alt="Typing Animation">
 </h3>
 
 <p align="center">
