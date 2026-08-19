@@ -129,17 +129,20 @@
       <br>
       <h4>🔷 Core Domains:</h4>
       <pre style="background-color: #161b22; padding: 15px; border-radius: 5px; color: #c9d1d9;">
-🛡️  Cyber Security ──────────── Phishing, Malware, SOC, Pen Testing
-🗄️  Database ────────────────── Mongo, Firebase, Supabase, MySQL
+👨🏻‍💻  Frontend Development ────── HTML, CSS, React.js, Typescript
+｡🇯‌🇸‌  Backend Development ─────── Node.js, Next.js, Express.js
 🤖  Android Development ─────── Android Studio
-🧠  Artificial AI ───────────── Neural networks & ML
-🏆  Hackathons ──────────────── Rapid prototyping
+🗄️  Database ────────────────── Mongo, Firebase, Supabase, Cloudinary, MySQL
 🔐  Authentication ──────────── OAuth, SMTP
 ⚙️  DevOps ──────────────────── Git, GitHub
 🚀  Hosting ─────────────────── Vercel, Netlify
 ☁️  Cloud ───────────────────── AWS
 💻  Languages Known ─────────── HTML, Python, C, Java
-🐧  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android
+🐧  Platform ────────────────── Windows, Kali Linux, Ubuntu, Android, IOS
+🛡️  Cyber Security ──────────── Phishing, Malware Analysis, SOC Analysis, Penetration Testing
+🧠  Artificial AI ───────────── Neural networks & ML
+🏆  Hackathons ──────────────── Rapid prototyping
+
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -199,17 +202,18 @@
 
 <br/>
 
-![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-00d2ff?style=for-the-badge&labelColor=0d1117)
-![Database](https://img.shields.io/badge/🗄️%20Database-4CAF50?style=for-the-badge&labelColor=0d1117)
-![API](https://img.shields.io/badge/🔌%20API-FF69B4?style=for-the-badge&labelColor=0d1117)
-<br/>
-![MySQL](https://img.shields.io/badge/🐬%20MySQL-4479A1?style=for-the-badge&labelColor=0d1117)
+![Frontend Development](https://img.shields.io/badge/👨🏻‍💻%20Frontend%20Development-FF69B4?style=for-the-badge&labelColor=0d1117)
+![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-4CAF50?style=for-the-badge&labelColor=0d1117)
 ![Android Development](https://img.shields.io/badge/🤖%20Android%20Development-3DDC84?style=for-the-badge&labelColor=0d1117)
-![Authentication](https://img.shields.io/badge/🔐%20Authentication-FF8C00?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-00d2ff?style=for-the-badge&labelColor=0d1117)
+![Generative Artificial Intelligence](https://img.shields.io/badge/🧠%20Generative%20Artificial%20Intelligence-FF8C00?style=for-the-badge&labelColor=0d1117)
 <br/>
 ![DevOps](https://img.shields.io/badge/⚙️%20DevOps-8A2BE2?style=for-the-badge&labelColor=0d1117)
-![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-E34C26?style=for-the-badge&labelColor=0d1117)
-
+![Database](https://img.shields.io/badge/🗄️%20Database-E34C26?style=for-the-badge&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/🐬%20MySQL-4479A1?style=for-the-badge&labelColor=0d1117)
 </div>
 <br/>
 
