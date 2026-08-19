@@ -201,13 +201,18 @@
 ## 🚀 Domains of Expertise
 
 <br/>
+
 ![Frontend Development](https://img.shields.io/badge/👨🏻‍💻%20Frontend%20Development-FF69B4?style=for-the-badge&labelColor=0d1117)
 ![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-4CAF50?style=for-the-badge&labelColor=0d1117)
 ![Android Development](https://img.shields.io/badge/🤖%20Android%20Development-3DDC84?style=for-the-badge&labelColor=0d1117)
+
 <br/>
+
 ![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-00d2ff?style=for-the-badge&labelColor=0d1117)
 ![Generative Artificial Intelligence](https://img.shields.io/badge/🧠%20Generative%20Artificial%20Intelligence-FF8C00?style=for-the-badge&labelColor=0d1117)
+
 <br/>
+
 ![DevOps](https://img.shields.io/badge/⚙️%20DevOps-8A2BE2?style=for-the-badge&labelColor=0d1117)
 ![Database](https://img.shields.io/badge/🗄️%20Database-E34C26?style=for-the-badge&labelColor=0d1117)
 ![MySQL](https://img.shields.io/badge/🐬%20MySQL-4479A1?style=for-the-badge&labelColor=0d1117)
