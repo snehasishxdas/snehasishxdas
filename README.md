@@ -143,7 +143,7 @@
 🧠  Artificial AI ───────────── Neural networks & ML
 🏆  Hackathons ──────────────── Rapid prototyping
 
-      </pre>
+  </pre>
     </td>
     <td width="40%" align="center" valign="middle">
        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="AI Robot Animation" style="border-radius: 5px;"/>
@@ -201,13 +201,10 @@
 ## 🚀 Domains of Expertise
 
 <br/>
-
 ![Frontend Development](https://img.shields.io/badge/👨🏻‍💻%20Frontend%20Development-FF69B4?style=for-the-badge&labelColor=0d1117)
 ![Backend Development](https://img.shields.io/badge/🛠️%20Backend%20Development-4CAF50?style=for-the-badge&labelColor=0d1117)
 ![Android Development](https://img.shields.io/badge/🤖%20Android%20Development-3DDC84?style=for-the-badge&labelColor=0d1117)
-
 <br/>
-
 ![Cyber Security](https://img.shields.io/badge/🛡️%20Cyber%20Security-00d2ff?style=for-the-badge&labelColor=0d1117)
 ![Generative Artificial Intelligence](https://img.shields.io/badge/🧠%20Generative%20Artificial%20Intelligence-FF8C00?style=for-the-badge&labelColor=0d1117)
 <br/>
