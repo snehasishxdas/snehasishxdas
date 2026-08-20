@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Profile status" />
 </p>
 <br/>
-
 <!-- ██████████████████████████████████████████████ -->
 <!-- ░░░░░░░░░░  4. IDENTITY CARDS  ░░░░░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████ -->
