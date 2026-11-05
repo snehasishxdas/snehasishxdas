@@ -89,7 +89,7 @@
 | 🟢 | 🎯 Finalist | BuildX IIT KGP | <img src="https://img.shields.io/badge/BuildX-IIT%20KGP-ff66b2?style=flat-square&labelColor=0b1016" alt="BuildX"/> |
 | 🟢 | 🌐 Coordinator | SMART Makers Festival | <img src="https://img.shields.io/badge/SMART-Festival-8a2be2?style=flat-square&labelColor=0b1016" alt="SMART"/> |
 | 🟢 | ⚡ Member | IETE Student's Forum | <img src="https://img.shields.io/badge/IETE-Forum-28a745?style=flat-square&labelColor=0b1016" alt="IETE"/> |
-| 🟢 | 🚀 Infrastructure (Server) Lead | Ureckon | <img src="https://img.shields.io/badge/Ureckon-Lead-ff7f00?style=flat-square&labelColor=0b1016" alt="Ureckon"/> |
+
 
 <br><br>
 
@@ -231,7 +231,6 @@
 | 🟢 **ACTIVE** | 👑 Lead | Microsoft Student Community IEMK |
 | 🔴 **FORMER** | 🎖️ Ex Chairperson | Microsoft Student Society UEMK |
 | 🟢 **ACTIVE** | 💼 Student Advisory | Microsoft Student Society UEMK |
-| 🟢 **ACTIVE** | 🚀 Infrastructure (Server) Lead | Ureckon |
 | 🟢 **ACTIVE** | 🌐 Coordinator | SMART Makers Festival |
 | 🟢 **ACTIVE** | ⚡ Member | IETE Student's Forum |
 
