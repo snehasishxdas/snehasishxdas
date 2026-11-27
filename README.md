@@ -13,7 +13,7 @@
 <!-- ██████████████████████████████████████████████ -->
 <div align="center">
 <!-- banner image to be updated -->
-<img src="images/github.png" alt="banner image">
+<img src="images/github.png.png" alt="banner image">
 </div>
 <br/>
 
